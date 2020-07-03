@@ -1,1 +1,1 @@
-I did a mistake with the returns in this chapter. After i finished exercise 2.14 i thought that was it for chapter two without realising that there are still more exercises in front. Exercises 2.15 upwards. I appologize for this. It was not intentional.
+Parts in parts
